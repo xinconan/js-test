@@ -1,0 +1,23 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "client test",
+  "scripts": {
+    "test": "karma start --reporters clear-screen,dots,coverage",
+    "test:one": "karma start --reporters clear-screen,dots,coverage --single-run"
+  },
+  "author": "xinconan",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "istanbul": "^0.4.5",
+    "karma": "^4.0.1",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-clear-screen-reporter": "^1.0.0",
+    "karma-cli": "^2.0.0",
+    "karma-coverage": "^1.1.2",
+    "karma-mocha": "^1.3.0",
+    "mocha": "^6.0.2"
+  }
+}
