@@ -1,0 +1,13 @@
+{
+  "name": "jest-base",
+  "version": "1.0.0",
+  "description": "jest base test",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "xinconan",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
