@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "jest base test",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:c": "jest --collectCoverage"
   },
   "author": "xinconan",
   "license": "MIT",
